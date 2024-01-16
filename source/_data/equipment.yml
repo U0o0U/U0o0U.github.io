@@ -1,0 +1,46 @@
+# - class_name: 好物
+#   description: 实物装备推荐
+#   tip: 跟 安知鱼 一起享受科技带来的乐趣
+#   top_background: 
+#   good_things:
+#     - title: 生产力
+#       description: 提升自己生产效率的硬件设备
+#       equipment_list:
+#         - name: 联想拯救者y9000p
+#           specification: 
+#           description: 
+#           image: 
+#           link: 
+#         - name: 华为mate60
+#           specification: 12GB+512GB / 雅丹黑
+#           description: 
+#           image: 
+#           link: 
+#         - name: matepad air
+#           specification: 12GB+512GB / 云锦白
+#           description: 特有的PC版WPS和CAJ阅读器，方便论文阅读。
+#           image: 
+#           link: 
+#         - name: 狼蛛F99电竞游戏机械键盘
+#           specification: 灵动轴V3 / 星落凝云 / FR4双面沉金定位板
+#           description: 
+#           image: 
+#           link: 
+#         - name: 罗技G502 HERO
+#           specification: 罗技G502 HERO（有线版）
+#           description: 专为先进游戏性能而设计。G502 HERO 采用 HERO 25K 游戏传感器，具有亚微米精度追踪、可自定义 LIGHTSYNC RGB、板载配置文件、可重定位的配重等先进特性。
+#           image: 
+#           link: 
+#     - title: 出行
+#       description: 用来出行的实物及设备
+#       equipment_list:
+#         - name: 华为watch gt3 pro
+#           specification: 钛金属款（46mm）
+#           description: 
+#           image: 
+#           link: 
+#         - name: 华为freebuds5
+#           specification: 冰霜银 / 至臻版
+#           description:
+#           image: 
+#           link: 
